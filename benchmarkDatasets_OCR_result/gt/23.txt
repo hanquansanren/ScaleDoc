@@ -1,0 +1,156 @@
+Research Projects
+
+26
+
+Photo sharing and
+privacy problems often
+arise when photos are
+
+visible outside the
+
+originally intended
+scope.
+
+Building the Right Code
+
+As a final remark, let us refer back to Lawrence
+Lessig’s “Code and Other Laws of Cyberspace,”
+first published in 1999, with an updated version
+in 2006.7° In this book, Lessig brilliantly
+reminded us that protection and regulation of
+privacy (and other values) is not done only by
+law, but also by our norms, markets, and obvi-
+ously the architecture of the systems we build
+aS computer scientists. Let us build the right
+code to manage forgetting and remembering
+on the Internet and the Web. Let us build code
+to help protect privacy in the right way! MM
+
+References
+
+1. J. Luis Borges. “Funes el memorioso” [Funes the
+Memorious], Finzioni, Adelphi Edizioni, 2014.
+
+2. E.S. Parker, L. Cahill, and J.L. McGaugh,”A Case of
+Unusual Autobiographical Remembering,” Neuro-
+case, vol. 12, no. 1, 2006, pp. 35-49.
+
+3. S. Shafy, “An Infinite Loop in the Brain,” The Sci-
+ence of Memory. Spiegel online, 21 Nov. 2008.
+
+4. V. Mayer-Schonberger. Delete: The Virtue of Forget-
+ting in the Digital Age, Princeton Univ. Press. 2009.
+
+5. “The Privacy Paradox: Privacy and Its Conflicting
+Values,” Stanford Law Review Online, symp. issue, 2
+Feb. 2012-12 Apr. 2012.
+
+6. European Commission, “Factsheet on the ‘Right to
+be Forgotten’ Ruling,” 2014; http://ec.europa.eu/
+justice/data-protection/files/factsheets/factsheet_
+data_protection_en.pdf.
+
+7. N.Kanhabua, C. Niederée, and W. Siberski,
+“Towards Concise Preservation by Managed For-
+getting: Research Issues and Case Study,” Proc.
+10th Intl Conf. on of Digital Objects (iPres 2013),
+2013.
+
+8. A. Ceroni et al., “To Keep or Not to Keep: Human
+Inspired Photo Selection Methods for Personal
+Preservation,” tech. report, ForgetIT, 2014.
+
+ComputingEdge
+
+10.
+
+11.
+
+2:
+
+14.
+
+15.
+
+16.
+
+17.
+
+19.
+
+20.
+
+21.
+
+. F, Markatopoulou, V. Mezaris, and |. Kompatsiaris,
+
+“A Comparative Study on the Use of Multi-label
+Classification Techniques for Concept-Based Video
+Indexing and Annotation,” Proc. 20th Anniversary
+Int’! Conf. (MMM 2014), Part |, pp. 1-12.
+
+C. Papagiannopoulou and V. Mezaris, “Concept-
+based image clustering and summarization of
+event-related image collections,” Proc. 1st ACM
+Workshop on Human Centered Event Understanding
+from Multimedia (HuEvent14) at ACM Multimedia
+(MM 14), 2014.
+
+B.-S. Seah, S.S. Bhowmick, and A. Sun, “PRISM:
+Concept-Preserving Social Image Search Results
+Summarization,” Proc. 37th Int’1ACM SIGIR Conf.
+Research and Development in Information Retrieval
+(SIGIR 14), 2014, pp. 737-746.
+
+P. Sinha, S. Mehrotra, and R. Jain, “Summarization
+of Personal Photologs Using Multidimensional
+Content and Context,” Proc. 1st ACM Int’ Conf.
+Multimedia Retrieval (ICMR 11), 2011, pp.
+
+. W.-T. Chu and C.-H. Lin, “Automatic selection of
+
+representative photo and smart thumbnailing
+using near-duplicate detection,” Proc. 16th ACM
+Int’l Conf. Multimedia (MM 08), 2008, pp.
+829-832.
+
+E. Guldogan, J. Kangas, and M. Gabbouj,
+“Personalized Representative Image Selection for
+Shared Photo Albums,” Proc. 2013 Int’ Conf. Com-
+puter Applications Technology (ICCAT), 2013, pp.
+1-4.
+
+M. Rabbath, P. Sandhaus, and S. Boll, “Automatic
+creation of photo books from stories in social
+media,” Proc. 2nd ACM SIGMM Workshop on Social
+Media (WSM 10), 2010, pp.
+
+J. Xiao et al., “Mixed-Initiative Photo Collage
+Authoring,” Proc. 16th ACM Int’l Conf. Multimedia
+(MM 08), 2008, pp. 509-518.
+
+K. Rodden and K.R. Wood, “How Do People Man-
+age their Digital Photographs?” Proc. SIGCHI Conf.
+Human Factors in Computing Systems (CHI 03),
+2003, pp. 409-416.
+
+. S.E. Lindley et al., “Collocated social practices sur-
+
+rounding photos,” Int’! {. Human-Computer Studies,
+vol. 67, no. 12, 2009, pp. 995-1004.
+
+C. Li, A.C. Loui, and T. Chen. “Towards Aesthetics:
+A Photo Quality Assessment and Photo Selection
+System,” Proc. ACM Int’! Conf. Multimedia (MM
+10), 2010, pp. 827-830.
+
+M.K. Wolters, E. Niven, and R.H. Logie, “The Art of
+Deleting Snapshots,” CHI 14 Extended Abstracts on
+Human Factors in Computing Systems (CHI EA 14),
+2014, pp. 2521-2526.
+
+T.C. Walber, A. Scherp, and S. Staab, “Smart
+Photo Selection: Interpret Gaze as Personal
+Interest,” Proc. SIGCHI Conf. Human Factors in
+
+July 2015

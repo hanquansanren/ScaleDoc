@@ -1,0 +1,174 @@
+26
+
+Research Projects
+
+—
+Photo sharing and
+privacy problems often
+arise when photos are
+visible outside the
+originally intended
+scope.
+
+——_—_— aE
+
+Building the Right Code
+Av a final remark, let us refer back to Lawrence
+id Other Laws of Cyberspace,”
+in 1999, with an updated version
+In this book, Lessig brilliantly
+reminded us that protection and regulation of
+Privacy (and other values) is not done only by.
+Taw, but norms, markets, and obvi-
+Ously the architecture of the systems we build,
+as computer scientists, Let us build the right
+code to manage forgetting and remembering
+‘on the Internet and the Web, Let us build code
+
+Lessig’s "Cox
+
+ish
+In 2006.2
+
+first pu
+
+150 by ou
+
+to help protect privacy in the right way! MIM.
+
+References
+
+1. J. Luis Borges. “Funes et memorioso” [Funes th
+Memorious, Finzioni, Adelphi Edizloni, 2014.
+
+2. ESP,
+
+arker, L Cahill, and JL, McGaugh,"A Case of
+Unusual Autoblogeaph
+
+case, vol. 12, no. 1, 2006, pp. 35-49
+
+3. 5, Shaty, “An infinite Loop in the Brain,” The Se
+ence of Memory. Spiegel ontine, 21 Nov. 2008.
+
+4. V. Mayet-Schénnberger. Delete: The Virtue of Forget:
+
+ting In the Digital Age, Princeton Univ. Press, 2009,
+The Privacy Paradox: Privacy and its Conitcting
+Values," Stanford Law Re
+
+Feb, 2012
+
+view Online, symp. issue, 2
+12Apr. 2012.
+
+6. European Commission, “Factsheet on the ‘Right to
+bbe Forgotten’ Ruling,” 2014; http://ec.europa.eu;
+iustice/data protection filesfactsheets/iactsheet
+data. protection. en,pdt
+
+7. N. Kanhabua, C, Niederée, and W. sibersk,
+“Towards Concise Preservation by Managed For
+getting: Research is
+
+ss and Case Study,” Pr
+10th Int’ Cont. on of Digital Objects (Pres 201 3
+2013.
+
+8. A.Ceroniet al., “To Keep or Not to Keep: Human
+
+Inspired Photo Selection Methods for Personal
+
+Preservation,” tech. report, ForgettT, 2014
+
+ComputingEdge
+
+9. &.
+
+10,
+
+u,
+
+12,
+
+14,
+
+15,
+
+; Markatopoulou, V. Mezaris, and I. Kompatsiaris,
+“AComparative Study on the Use of Multi-label
+Classification Techniques for Concept-Based Video
+Indexing and Annotation,” Proc. 20th Anniversary.
+Int Cont, (MMM 2014), Part |, pp. 1-12.
+‘C.Papagiannopoulou and V. Mezaris, "Concept-
+‘based image clustering and summarization of
+‘event-related image collections,” Proc. 1st ACM
+Workshop on Human Centered Event Understanding
+from Multimedia (HuEvent14) at ACM Multimedia
+(MM 14), 2014.
+Seah, 5.5. Bhowmick, and A. Sun, “PRISM:
+‘Concept-Preserving Social Image Search Results,
+Summatization,” Proc. 37th Int’1ACM SIGIR Conf.
+Research and Development in information Retrieval
+(SIGIR 14), 2014, pp. 737-746,
+P.Sinha, 5. Mehrotra, and R. jain, “Summarization
+of Personal Photologs Using Multidimensional
+Content and Context,” Proc. 1st ACM Int’! Conf.
+‘Multimedia Retrieval (CMR 11), 2011, pp.
+
+Chu and CH. Lin, “Automatic selection of
+‘epresentative photo and smart thumbnailing
+using near-dupticate detection,” Proc. 16th ACM
+{ntl Cont. Multimedia (844 08), 2008, pp,
+620-832,
+E, Guldogan, |.Kangas, and M. Gabboui,
+“Personalized Representative Image Selection tor
+‘Shared Photo Albums,” Proc. 2013 Int’I Cont. Com-
+
+‘puter Applications Technology (ICCAT),
+4,
+
+2013, pp.
+'M. Rabbath,P. Sandhaus, and S. Boll, “Automatic
+‘creation of photo books from stories in social
+‘media,” Proc. 2nd ACM SIGMM Workshop on Social
+Media (WSM 10), 2010, pp.
+
+Xiao et al., "Mixed-Initative Photo Collage
+Authoring,” Proc. 16th ACM Int Cont, Multimedia
+(MM 08), 2008, pp. 509-518,
+
+. Rodden and K.R. Wood, “How Do People Man-
+age their Digital Photographs?” Proc. SIGCHI Cont
+
+Human Foctors in Computing Systems (CHI 03),
+003, pp. 409-416.
+
+S.E. Lindley etal, “Collocated social practices sur
+rounding Int). Human-Computer Studies,
+ol 67, no. 12, 2009, pp. 995-1004,
+
+CUAC.L AT. Chen. "Towards Aesthetics
+Arh
+
+» Quality Assessment and Photo Selection,
+
+System, int. Multimedia (MM
+
+10), 2010, pp. 8:
+Mx
+
+ters, EN
+Deleting Snapshots,
+
+en, and RH, Logie, “The Arto
+ch nded Abstracts on
+Human Factors in C
+
+mputin CHIEA 14),
+2014, pp. 2521-2526
+
+T.C, Walber, A. Scherp, and Smart
+Photo Selection: Interpret Gaze as Personal
+Interest Fi
+

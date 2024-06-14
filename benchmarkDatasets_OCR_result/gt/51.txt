@@ -1,0 +1,52 @@
+tion over Z does not significantly impact the approach described so far, but the use of
+latent variables is so ubiquitous that it deserves special treatment.
+
+In particular, some insight can be gained by viewing the inference process in the
+presence of latent variables as a simultaneous minimization over Y and Z:
+
+Y* = argminycy zezE(Z,Y,X). (43)
+
+Latent variables can be viewed as intermediate results on the way to finding the best
+output Y. At this point, one could argue that there is no conceptual difference between
+the Z and Y variables: Z could simply be folded into Y . The distinction arises during
+training: we are given the correct value of Y for a number of training samples, but we
+are never given the correct value of Z.
+
+Latent variables are very useful in situations where a hidden characteristic of the
+process being modeled can be inferred from observations, but cannot be predicted di-
+rectly. One such example is in recognition problems. For example, in face recognition
+the gender of a person or the orientation of the face could be a latent variable. Knowing
+these values would make the recognition task much easier. Likewise in invariant object
+recognition the pose parameters of the object (location, orientation, scale) or the illumi-
+nation could be latent variables. They play a crucial role in problems where segmenta-
+tion of the sequential data must be performed simultaneously with the recognition task.
+A good example is speech recognition, in which the segmentation of sentences into
+words and words into phonemes must take place simultaneously with recognition, yet
+the correct segmentation into phonemes is rarely available during training. Similarly, in
+handwriting recognition, the segmentation of words into characters should take place
+simultaneously with the recognition. The use of latent variables in face recognition is
+discussed in this section, and Section 7.3 describes a latent variable architecture for
+handwriting recognition.
+
+4.1 An Example of Latent Variable Architecture
+
+To illustrate the concept of latent variables, we consider the task of face detection,
+beginning with the simple problem of determining whether a face is present or not in
+a small image. Imagine that we are provided with a face detecting function Gface(X)
+which takes a small image window as input and produces a scalar output. It outputs
+a small value when a human face fills the input image, and a large value if no face is
+present (or if only a piece of a face or a tiny face is present). An energy-based face
+detector built around this function is shown in Figure 8(a). The variable Y controls the
+position of a binary switch (1 = “face”, 0 = “non-face”). The output energy is equal
+to Gtace(X) when Y = 1, and to a fixed threshold value T when Y = 0:
+
+E(Y, Xx) = Y Gtace(X) - et ~ Y)T.
+
+The value of Y that minimizes this energy function is 1 (face) if Gace(X) < T and 0
+(non-face) otherwise.
+
+Let us now consider the more complex task of detecting and locating a single face
+in a large image. We can apply our Gface(X ) function to multiple windows in the large
+image, compute which window produces the lowest value of Gface(X), and detect a
+
+21

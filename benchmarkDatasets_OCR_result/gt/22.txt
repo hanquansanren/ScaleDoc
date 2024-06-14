@@ -1,0 +1,144 @@
+identity-management model. It
+also highlights India’s cybersecu-
+rity challenges and examines dif-
+ferent types of attacks.
+
+IEEE Cloud Computing
+
+Engineering the Internet of
+Things (IoT) and cloud services
+to provide a coherent software layer
+for continuous deployment, provi-
+sion, and execution of applications
+for various domains is complex.
+The authors of “Principles for Engi-
+neering IoT Cloud Systems,” from
+IEEE Cloud Computing’s March/
+April 2015 issue, consider whether
+and how IoT cloud systems could
+provide a uniform layer to enable
+continuous execution of complex
+applications consisting of diverse
+software components.
+
+IEEE Computer Graphics and
+Applications
+
+Robots’ increasing popularity
+makes interacting and communi-
+cating with them of critical impor-
+tance. IEEE CG&A’s May/June
+2015 special issue—“Natural User
+Interfaces for Adjustable Auton-
+omy in Robot Control”—presents
+some of the latest research results
+in the exploration of natural user
+interfaces for robotic control
+and teleoperation.
+
+IEEE Intelligent Systems
+
+IEEE Intelligent Systems’ March/
+April 2015 issue features articles
+on macro-level predictive analyt-
+ics, which has benefited from the
+ability to use big data for real-time
+analysis. The magazine’s May/
+
+6 ComputingEdge
+
+June 2015 special issue—titled
+“Predictive Analytics: Predictive
+Modeling at the Micro Level’—
+addresses micro-level predic-
+tive analytics, which uses data to
+make inferences about unknown
+outcomes relating to individual
+firms, people, or situations.
+
+IEEE MultiMedia
+
+The volume and nature of You-
+Tube-generated traffic has had
+a significant impact on fixed and
+mobile networks. Studying You-
+Tube traffic characteristics could
+enable network engineers to come
+up with ways to regulate network
+trafic and support the development
+of sustainable video-delivery ser-
+vices. In “A Survey of Current You-
+Tube Video Characteristics,” in JEEE
+MultiMedia’s April-June 2015 issue,
+the authors discuss their study.
+
+IEEE Annals of the History of
+Computing
+
+Few areas of computing capture
+more headlines than cybersecurity.
+However, historians have barely
+scratched the surface of com-
+puter security’s history, largely
+because of the lack of relevant
+source materials. Recently, this has
+begun changing, as researchers
+have uncovered archival informa-
+tion and developed oral histories.
+Some of this work is addressed in
+IEEE Annals’ April-June 2015 spe-
+cial issue on cybersecurity.
+
+IEEE Pervasive Computing
+
+“Approximate Computing: Mak-
+ing Mobile Systems More Efficient,”
+
+in IEEE Pervasive Computing’s
+April-June 2015 issue, looks at
+technology that makes systems
+faster and more efficient by being
+less than perfect for tasks that
+don’t require great precision.
+The article explores work in this
+area by University of Washington
+researchers.
+
+IT Professional
+
+Two increasingly high-profile
+technology concepts are sustain-
+ability and the Internet of Things
+(IoT), also known as the Internet
+of Anything. These concepts are
+evolving and beginning to con-
+verge in some cases, creating
+interesting possibilities. [T Pro’s
+May/June 2015 special issue cov-
+ers the Internet of Anything and
+sustainability.
+
+IEEE Micro
+
+IEEE Micro’s March/April 2015
+special issue highlights some of
+the processors presented at 2014’s
+Hot Chips 26 conference. One of
+those chips is discussed in the
+article “Sparc64 XIfx: Fujitsu’s
+Next-Generation Processor for
+High-Performance Computing.”
+The chip is designed for massively
+parallel supercomputer systems.
+
+Computing Now
+
+The Computing Now website
+(http://computingnow.computer.
+org) features up-to-the-minute
+computing news and _ blogs,
+along with articles ranging from
+peer-reviewed research to opinion
+pieces by industry leaders. ©
+
+July 2015

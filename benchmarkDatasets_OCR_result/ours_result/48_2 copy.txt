@@ -1,0 +1,76 @@
+SEaE
+
+SERSSRSERI ESSE EE
+
+. EEE TRANSACTIONS ON Parent ANALYSIS AND MACHINE INTELLIGENCE, VOL. 98, OLX. 1900062017
+
+;
+
+ok 467113711 1 x5] 2.07
+ok S88 1231 1 3a,
+co row et af
+
+2k a5 NA [NA[NATNA
+ok fig) 22 501 NA NANA
+sev fggg] 2497/3105 2650, 1230 0332
+130K Ty dives 8 718129 5008S 3
+
+) Global distortion evaluation metric
+
+1) Comparon oe gobal datorion matic between our method 009) ang Za
+Sins eacompareer le ine recency Seton of Ocal Guirao matics tre
+‘parser or have more noae
+
+from a book Sequences Ill, IV, and X contain letters folded within 4.3 Comparis@nilWith Existing Methods =
+cnvelopes, Sequence V, VI, Xt and XIl contain examples of docu. ist compare with Hhede methods [28], [291 [30] on various real ae
+are sad isda a poueoe noteeack: Tha lsputizuages ex'VeEM | Sages ant asiew ty MRNGBe pescsncd ees hemes ca
+we tks teealts from our method are shown in Fig. 6. Our method pare with thiuethods dedifhed forddense 3D point dats [0], Beh”
+does not rely on the content, formatting, layout or color of the docu- 7Allat CG 28]4 Their method explicitly parameterizes 40>
+Cee ey eee eecaty applicable long as asuffcient number smagil@lers panmendle our document meget
+‘of sparse keypoints in the input images are available for SM and folds, Our method works fine on their dataset and produces.» ay
+more aceite result than the one obtained by running their code?
+ney Goce enero ‘Ge Fig. 8) Although our result has minor artifacts due to selfceche
+We quantitatively evaluate the global and local distortionBebveen  Si0R and fore-shortening, the flattening result is quite accurate
+{round truth digital image and our rectified result wsiN Meal Brow etal. [29], Zhang et al (201, We compare to both methods
+
+an
+ey
+as
+
+5 at
+Evaluation on Bh We compre cur mad wit)
+130] on: ‘generated dense 3D points because these meth
+‘ods require dense 3D points. We vary the point cloud size from 2K «26
+‘to 300 K (common in 3D range data) and inject varying levels of «27
+Gaussian noise. The results from the three methods are compared in 42
+9. These experiments show that with low noise and high point «>
+all three methods are comparable in accuracy. However, 20
+eee
+
+is more accurate than prior methods [29 [30] “
+
+Paper, we propose a method for automatically rectifying, 44
+
+Epo, on ‘or folded paper sheets from a small number of images cap- 495
+
+‘ image from different viewpoints. We use SIM to obiain sparse SD
+
+ang ee a et ea eae ged orc elon cree mite vote <r
+
+After that, we further evaluate the ca : which utilizes the geometric property of developable «as
+
+resulting image with the gro for accurate and dense 3D reconstruction of paper sheets 43»
+
+[38] for dense registration. This flow map ts used ste the ‘robustify the algorithms using f; optimization techniques 44
+
+warping The equeey deciviben of Bal gue Se cteresl mapping wh bath lvl oh neice vay
+3! i 7 : ma al and non-local con-
+
+shown in lower figure in Fig. 7 and compared with existing ’4 robust estimation framework In the future we will 1s
+
+‘ods, We found dense registration to be more useful for
+
+evaluation than sparse SIFT keypoint-based registration. beca > ie
+sparse methods are more likely to ignore many a cea ee rnp ere
+‘result contains large deformations — si
+

@@ -1,0 +1,60 @@
+i ows 3 doe ot sguiiomty tacts spy Societe
+Aatent vanables 1 x0 wtnquitous that it deserves special (seem
+
+In particular, some insight can be gained by viewing dx aference process is the
+presence of latent variables 2s 2 simuttancous minimizance oe ¥ ad Ze
+
+YY" = arwminy ey 2¢2E(Z.Y.X) “
+
+Latent variables can be viewed 25 intermediate rewits on he #4) © Seing te best
+cxaput Y. At this point.cne could argue thet there is wo concepts! STEERS RERwSES,
+the Z and Y variables: Z could simply be folded ims Y The destin tom atees dating
+traning ‘we are given the correct value of Y for a number of timing SSS, Oa we
+are never given the correct value of Z
+
+{aseet varies ane very wncful im situations where » hniien charactatene of te
+proces being mole can be inferred {nce observations, tut camest DS Patiiad
+Fatty, One such example ts io recognition probicens. For examele.\0 << SaaS
+the gomder of a person or the ortentation of the tace coukd be a ae atatte RSS
+
+heat valurs would make the FECOpRiCE tak mach ener Likewise is eae
+secognition the pose parameters of the object (iocation,crtewsssa, sabe) tiene
+mation could be latent variables. They play a crucial eae im protheess SOOT SSIS
+bon tte sequential dee anust be porfaruned senshesecusty wth 0s 000” aE
+
+A goad cusmple is speech recognition, in which the sxgmemnaion of SSSI
+
+words and word int phonemes must te piace simufuancously with Meneses Ta
+
+the correct segmentation into phonemes is rarcty availabe during Uaimins Sisitetty. te
+
+Senderaing recognition, che sagmenusion of words into charactors shat SASS
+
+Sienattanecusty with the recognition. The ene of latent variabtes in face Mcogeeen®
+
+Gacead im this ecction, and Sectuon 7.3 drecribes # latent variate archiocaes Af
+
+Rantenning recog
+
+4.1 An Example of Latent Variable Architecture
+
+nustrate the concept of latent vartables, we comider the tash of face desma
+pepinming with the simple problem of determining whether a face bs preseat or 58
+‘a small image. Imagine that we are provided with a face detecting function Grwee(X)
+which takes @ wimdom a input and produces a scalar outpeat. 1 culpa
+~~ face fills the input image. and a large value if mo face Is
+spemnat ta Only phece of = face oF 0 tiny face \s present) An energy-tesed face
+Te en met tran funcsion in shown in Figure Bea). The variable ¥” controls the
+Posion of DHEA Siac (1 = “face”. 0 = “now face”) ‘The output energy ts equal
+eect X) SREP Fm 1. and toa fixed threshokd value T when ¥ = 0
+
+BUYX) = VC X) + ~ IT
+The value of ¥ et mintenizes is 1 (lace) i Ctaee( X) < T
+2 this energy Function is 1 ‘ and 0
+‘Let us nO Sider the more comples task of dewcning and locating a single face
+
+jo 2 targe inane can appt our Gaann( X) function to multiple windows in the
+ore cageee wie was pastor he ton valor Of Cant). ad ees
+
+2
+

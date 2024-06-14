@@ -1,0 +1,138 @@
+Steuakecesseuuseusers
+
+NEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, VOL.99, NO.X, 20000 2017) '
+
+Multiview Rectification
+of Folded Documents
+
+‘Shaodi You, Member, IEEE,
+Yasuyuki Matsushita, Member, IEEE,
+Sudipta Sinha, Member, IEEE,
+Yusuke Bou, Member, JEEE, and
+Katsushi Ikeuchi, Fellow, IEEE
+
+‘Abetract—Digtaly unwrapping enages of paper sheets i crucial or accurate
+‘ecumart scaring ander recorion Tha pape’ presenta a method tt
+“automaticaly recttvng curved or tolied paper sheets fom a lew images captured
+‘ron munpie vewponts Pret methods ete heed expansive 3D ecarne’s o"
+‘mail deformable srtaces yang Overmeted parametre representations
+Contrast our method wes regs erages and bated on goers developable
+‘tac modes ta! can represent a wide vanety of pape’ deformations, OW mam
+orartuiion a new robust ecitcaionmhetnog based on ge aeare 30
+raconsination ot «paper sheet and unwrapping he reconatncted surtace wing
+Properses of devetopatte wurfaces via cortormal mapping. We presert resus
+‘on eeveral examples chiding Bock pages, fides levers and shonpngrecepts
+
+Index Terms—Rabust aigtally urwarpping, hige-aware sutace reconstructon.
+‘mee phone ment algorahons
+
++
+
+Sut emmy Cntr ACT aot yoccetopes
+sie ae
+Peciorchoas tht
+eet rs
+
+4 Souls a a, tld MAME
+
+ie Cathey Fat Sta be a
+‘Reena ki
+[Sttaminceney
+
+2601, Austra, an the Australian
+
+Manacrptreceoud 30 May 2016; recs 25 Jn. 2017 acetal 13 Feb 2017- Date of
+
+[uttbntion 0. 0000, dat of turent rerio 0-000,
+FRecnmmented for aceptane by} Yo
+
+olay
+pale fy lee
+Pride tf
+
+opis ofthis article, ese send mal 1: reprints
+
+Furthermore, to achieve robustness t0 outliers present in the sparse 46
+SMM 3D point cloud caused by repetitive document textures, we
+ose the surface reconstruction task as a robust Poisson surface 48
+Feconstruction based on /; optimization Next. to unwrap the
+Teconstructed surface, we propose 4 Tobust conformal mapping §°
+‘method by incorporating ndge awareness priors and /, optimiz
+tion technique. See Fig. 1 for an overview.
+The contributions of our work are threefold. First, we show how
+idge-aware regularization can be used for both 3D surface recon-
+1 mapping) to improve accuracy.
+‘method preserves the sharp struc-
+
+tion [10] and least-squares conto
+algorithms by explicitly
+Finally, we describe a
+folded documents that
+
+fy
+
+His common to model paper sheets as
+ve underlying rulers corresponding
+
+In-curvature Many existing methods
+
+Jrical surfaces where the paper i curved
+
+direction and thus can be parameterized using a 1D
+
+on. Such surfaces do not require an explicit parame-
+
+rulers. See Fig 2a for an example A variety of exist-
+
+g technique¥iatcover surface geometry using this assumption.
+
+ipe from shading methods were first used by Wada et al. [4]
+
+inet al {12] [13], Coureille etal. [14] and Zhang et al. [5] whereas
+
+ored by Tsot et al (61 [15].
+
+used by
+
+Koo etal. (7) and Tsoi etal. [6] Shape from text
+
+lines ts another popular method for reconstructing the document
+
+surface geometry (81, 191 [121 1171, 19, (201, (21, 1221, 123),
+
+[241 125} However, these methods assume that the document con-
+taina well formatted printed characters
+
+‘Some recent methods relax the parallel ruler assumption
+
+Gee Fig. 2) However, the numerous Parameters in these models
+makes the optimization quite challenging. Liang et al. 126) and
+Tian et al [27] use text lines. Although these methods can handle
+4 single input image, the strong assumptions on surface geometry,
+Contents and illumination limit the applicability. Meng etal
+designed a special calibrated active structural light device to
+retrieve the two parallel 1D curvatures [2], the surface can be
+Parameterized by assuming appropriate boundary conditions ald
+<onstraints on ruler orientations, Perriollat etal [28] use sparse SIM.
+[points but assume they are reasonably dense and well distributed
+‘Their parameterization is sensitive to noise and can be unreliable
+‘when the 3d point cloud is sparse or has varying density.
+
+For rectification of documents with arbitrary distortion and con-
+tent (Fig. 20, other methods require specialized devices and use
+non-parametric approaches. Brown etal. [3] use a calibrated mirror
+system to obtain 3D geometry using multiview stereo. They
+unwrap the reconstructed surface using constraints on elastic
+‘energy, gravity and collision. The model is not ideal for paper doct-
+‘ments because developable surfaces are not elastic Later, they pro-
+
+using dense 3D range data [29] after which they flaten the
+Surface using least square conformal mapping [11] Zhang etal [30]
+flso use dense range scans and use rigid constraints instead of las-
+fie constraints with the method proposed in [3]. Pil [1] assumes
+thata dense 3D mesh is available and munimizes the global bending 10s
+
+BERSESRSearesssreseaeenzeyaiZaPIAIASHLE
+
+ometonsa ae
+SES TSS, rapa ian es ae a

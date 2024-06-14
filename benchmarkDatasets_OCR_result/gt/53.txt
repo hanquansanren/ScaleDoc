@@ -1,0 +1,56 @@
+where G'w (X) is a scalar-valued discriminant function parameterized by W . Inference
+is trivial:
+Y* = argminy ¢s_1,1; — YGw(X) = sign(Gw(X)). (33)
+Learning can be done using a number of different loss functions, which include the
+perceptron loss, hinge loss, and negative log-likelihood loss. Substituting Equations 32
+and 33 into the perceptron loss (Eq. 7), we get:
+
+P
+
+1 ; : ;
+Loerceptron(W, S) = 5 S- (sign(Gw (X*)) — ¥*) Gw(X%). (34)
+
+i=1
+
+The stochastic gradient descent update rule to minimize this loss is:
+OGw (X*)
+
+OW
+
+where 7 is a positive step size. If we choose Gy (X) in the family of linear models,
+
+the energy function becomes E(W,Y,X) = —YW7?®(X) and the perceptron loss
+becomes:
+
+W —W+7n(¥* —sign(Gw(X")) (35)
+
+v
+
+Loerceptron(W, S) = pd (sign(W7 8(X")) —Y") W7H(X"), (36)
+
+and the stochastic gradient descent update rule becomes the familiar perceptron learn-
+ing rule: W — W + (Y* —sign(W7 ®(X"))) 6(X°).
+The hinge loss (Eq. 11) with the two-class classifier energy (Eq. 32) yields:
+
+Lninge(W, S) = 1> max(0,m + 2Y*Gy (X°)). (37)
+
+Ps
+
+Using this loss with Gw(X) = W7X and a regularizer of the form ||W||? gives the
+familiar linear support vector machine.
+The negative log-likelihood loss (Eq. 23) with Equation 32 yields:
+
+Lan(W, 8) = 5 Sy YiGw(X ‘) + log (e ¥'Gw(X*) +e V'Gw(X))) (38)
+Using the fact that Y = {—1, +1}, we obtain:
+o -2Y'Gw (X*)
+Lan(W, 8) = = 5 Sls (ite ye (39)
+
+which is equivalent to the log loss (Eq. 12). Using a linear model as described above,
+the loss function becomes:
+
+Lai (W, S) Boke (1 4 e72Y Ween) , (40)
+
+This particular combination of architecture and loss is the familiar logistic regression
+method.
+
+18 -

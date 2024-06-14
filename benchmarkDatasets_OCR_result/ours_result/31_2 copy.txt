@@ -1,0 +1,178 @@
+tive toward a ~pluriversal” perspective.
+‘That is, a worldview constituted from
+multiple sites of enunciation, pre-emi-
+nently those situated at the margins of
+the world system.
+
+Having outlined some of the ba-
+sic features of decolonial thinking, it
+becomes possible to consider, albeit
+briefly, how they might be applied in a
+computing context.
+
+In contrast to the postcolonial com-
+puting approach described earlier, and
+inspired by the decolonial turn referred
+to previously, the idea of decolonial
+computing has recently been proposed
+‘as a response to computing’s “colonial
+impulse” (7). Grounded in a synthesis of
+the oppositional critical race philoso-
+phy of Charles W. Mills and the work of
+decolonial scholars—such as Mignolo,
+Grosfoguel and Nelson Maidonado-Tor
+res—decolonial computing attempts to
+‘engage with the phenomenon of com
+puting from a perspective informed by
+{even If not situated at) the margins or
+
+of the modern world system
+wherein issues of body politics and gco-
+politics are analytically foregrounded.
+Put differently, decolonial computing,
+as a critical project, Is about interrogat-
+ing who is doing computing, where they
+are doing it, and, thereby, what comput-
+ing means both epistemologically (that
+is, in relation to knowing) and ontologi-
+ally (that is, in relation to being).
+
+‘Adopting a decolonial perspective
+enables a crucial difference between
+decolonial and postcolonial computing
+to be brought into bold relief. Namely,
+early formulators of the latter position,
+such as Dourish and Mainwaring (2)
+are completely silent on issues of race,
+as are other proponents of postcolonial
+‘computing who instead speak in terms
+of “colonial, “cultural,” and “power”
+formations. Another distinction be-
+tween decolonial and postcolonial
+computing is the latter is
+also silent on questions of reparations.
+Although Dourish and Mainwaring rec-
+
+“the overriding question, ‘What
+might we build tomorrow?’ blinds us to
+the questions of our ongoing responsi
+bilities for what we built yesterday” (2),
+the decolonial requires us
+inesropees te boxy pltics and geo:
+politics of the pronouns “we” and “us”
+in such statements. In short, and 1
+
+omega
+
+opens: ems
+with and ices
+ituated at the
+peripheries of the
+id system... .
+
+paraphrase media theorist Wendy Hui
+Kyong Chun, we need to examine “race
+and/as computing.”
+In this connection, one landmark
+study that might be associated with
+decolonial computing is the disserta
+tion of Mahendran; an exploration of
+the emergence of race and computation
+in modernity, and their convergence
+in the contemporary postmodern era,
+in terms of the mind-body polarity as
+viewed through the “lens” of existential
+phenomenology (8). According to Ma-
+hendran, “the historical idea of Man,
+fas the secular human — developed
+through the violent devolution of bodily
+‘experience, in favor of detached caleu
+lative rationality, from which computa-
+tion and race have emerged. This has
+placed Man over and against the natu:
+ral world that extends beyond the mind,
+especially the body and others who are
+constituted outside the norm of Man
+[that is, people of non European de-
+scent)” Crucially, he argues, ~This nor-
+mative distinction between mind and
+body finds a more radical expression in
+Alan M. Turing’s concept of the digital
+‘computer, a founding theory of comput-
+‘er science and information technology.
+‘On the one hand the digital computer
+decouples the bodily from existence,
+proof of the teleological development of
+a technological rational humanity. On
+the other hand, race limits existence to
+the bodily, as a fundamental barrier to
+humanity. It can be said that modern
+‘computation is the angelic ascent from
+‘one’s body, while race is the hellish de~
+‘scent into one’s body.”
+While ground breaking in its en-
+gagement with issues at the intersec-
+
+tion of race and computing—more
+specifically, computation—and while
+hinting at the need to engage also
+with issues of religion andior theok
+‘ogy, Mahendran’s argument needs
+augmenting in light of the “embodied
+turn” within computing and cognitive
+science, Drawing upon Frantz Fanon's
+«critique of the embodied phenomenol-
+ogy of Merleau-Ponty, Mahendran
+mounts a decolonial critique of ab-
+stract disembodied—that is, universal
+and formal—computing of the Turing-
+computational variety. However, this
+line of critique requires extending to
+cover abstract embodied—that is, uni-
+versal and physical—computing. For
+‘example, ubicomp, at least as concep-
+tualized in the phenomenologically
+inspired approach to embodied inter-
+action developed by Paul Dourish and
+others, invokes the figure of the body
+in the context of tangible, wearable,
+kinesthetic, gesture-based, and related
+computing technologies. Yet aceord-
+Ing to Ali, this isa somewhat “abstract”
+conception of the body insofar as it is
+fone that has been “de-raced"—that
+Is, rendered race-less [7], Decolonial
+analysis along body-political and geo-
+political lines readily discloses that
+such de-racing tends to be effected, at
+least in the first instance, if not there-
+after, by theorists, designers, research-
+cers, developers etc. who are white (and
+male) and Western—that is, situated
+within the Global North. Understand-
+ing who is responsible for carrying out
+the de-racing of the body, from where
+and how (that is, in what terms) is cru-
+cial because the abstract body that is
+produced tends to be presented by the
+de-racers as “universal,” thereby tac-
+itly masking or concealing (intention-
+lly o otherwise) the particularity or
+specificity of this body. Put simply, the
+abstract of universal body of ubicomp
+and related disciplines) is arguably
+Eurocentric/Western centric.
+
+‘To reiterate: ‘The embodied turn
+within computing constitutes a move-
+‘ment from an abstract disembodied
+computing to an abstract embodied
+computing. However, this movement
+tends to pre-emptively bracket or fore-
+close consideration of what might be de~
+seribed as “the decolonial question con-
+cerning embodiment” (to paraphrase
+Meldegger. In addition,engaging issues
+
+SOMMER 2018 Wa? WO
+

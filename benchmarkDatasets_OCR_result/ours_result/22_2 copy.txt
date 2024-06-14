@@ -1,0 +1,149 @@
+cs Focus
+
+dentityymanagement model. It
+also highlights India’s cybersecu-
+rity challenges and examines dif
+ferent types of attacks.
+
+Engineering the Internet of
+‘Things (IoT) and cloud services
+software layer
+
+deployment, provi
+ton of appl
+
+gins is con
+
+Robots’ increasing popularity
+makes interacting and communi-
+cating with them of critical impor-
+IEEE CGEA's May/June
+2015 special issue—“Natural User
+Interfaces for Adjustable Auton
+omy in Robot Control”"—presents
+some of the latest research results
+in the exploration of natural user
+interfaces for robotic control
+and teleoperation.
+
+tance.
+
+Intelligent Systems
+
+IEEE Intelligent Systems’ March’
+2015 issue features articles
+scro-level predictive analyt
+ics, which has benefited from the
+ability to use big data for real-time
+ysis. The magazine's May/
+
+6 Computinabige
+
+June titled
+Predictive A Predictiv
+Modeling at the Micro Level"—
+micro-level _predic-
+tive analytics, which uses data to
+make inferences about unknown
+outcomes relating to individual
+people, or situations.
+
+2015 s
+
+Arms
+
+The volume and nature of You-
+Tube-generated traffic has had
+act on fixed and
+Studying You-
+
+a significant
+
+bile n
+
+Tube traffic characteristics could
+enable network engineers to come
+
+p with ways to regulate network
+traffic and support the development
+f sustainable video-delivery ser
+s. In “A Survey of Current You:
+‘Tube Video Characteristics,” in IEEE
+‘MultiMedia’s April-June 2015 issue,
+the authors discuss their study.
+
+IEEE Annals of the History of
+Computing
+
+Few areas of computing capture
+more headlines than cybersecurity.
+However, historians have barely
+scratched the surface of com-
+puter security's history, largely
+because of the lack of relevant
+source materials. Recently, this has
+begun changing, as researchers
+have uncovered archival informa.
+tion and developed oral histories,
+Some of this work is addressed in
+IEEE Annals’ April-June 2015 spe-
+Cial issue on cybersecurity,
+
+IEEE Pervasive Computing
+
+“Approximate Computing: Mak
+ing Mobile Systems More Efficient,”
+
+Pervasive
+2015 issue,
+
+Computin
+April-June look:
+technology that makes syster
+
+faster and more efficient by being
+
+less than perfect for tasks that
+don't require great precision.
+The article explores work in this
+
+area by University of Washington
+researchers.
+
+high-profile
+technology concepts are sustain:
+ability and the Internet of Things
+(loT), also known as the Internet
+of Anything. These concepts are
+evolving and beginning to con-
+verge in some cases, creating
+interesting possibilities. IT Pro's
+May/June 2015 special issue cov-
+
+ers the Internet of Anything and
+sustainability
+
+IEEE Micro
+
+IEEE Micro's March/April 2015
+special issue highlights some of
+the processors presented at 2014's
+Hot Chips 26 conference. One of
+those chips is discussed in the
+article “Sparc64 XIfx: Fujitsu's
+Next-Generation Processor for
+High-Performance Computing.”
+‘The chip is designed for massively
+parallel supercomputer systems.
+
+Computing Now
+
+The Computing Now website
+(http://computingnow.computer
+org) features up-to-the-minute
+computing news and blogs,
+along with articles ranging from
+peer-reviewed research to opinion
+pieces by industry leaders. @
+
+July 2015

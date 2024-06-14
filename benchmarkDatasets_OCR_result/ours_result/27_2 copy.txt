@@ -1,0 +1,86 @@
+The
+
+BUSINESS IMPACT
+
+Case studies from Utah
+By Wade Kloos, GIS Director, Ute
+
+return on investment
+
+the third in a series on GIS
+igs after
+
+ovides RO] examples and offers a summary of findin
++ of using this ROI approach at the Utah Department of
+Natural Resources
+
+In an article in the Winter 2016 issue of ArcUser. 1 addressed the
+need for and benefits of documenting GIS results as well as the ad-
+vantages of adopting the right ROL mind-set. In “(Downsizing the ROL
+Report” in the Spring 2016 issue, I reviewed the target audience for
+RO! reports, shared a different approach to documenting ROI, and
+provided a one-page ROI and Benefits Report template that could be
+downloaded from the online version ofthe article:
+
+“The online version of this article has links to Ewo reports created
+using the template. They are referenced in case you want to down
+load them, Look at the ROI and Benefits Report for the Wildland
+Urban Interface (WUD Project Geodatabase Compilation project
+carried out by the Division of Forestry, Fire, and State Lands (FFSL).
+The Executive Summary portion notes that not all the organization’
+relevant information could be used to make decisions. The Tangible
+Benefits section of this same report describes how a repeatable
+method for producing more timely, higher-quality data is now part
+of the organization's decision-SUpPort process.
+
+‘Your leaders need to Know the bad and the ugly of your current
+information and process limitations so they can accurately asses:
+the good your GIS efforts arc delivering. This report describes efforts
+
+«flow. This problem is not an uncommon
+
+P those with dispersed offices, multi-
+absence of data standards. This report also
+‘and proposed workflows by describing
+
+ah Department of Natural Resources
+
+of GIS
+
+details that the GISst
+from. and then apply.
+
+“The 60 hours required by this project to clean and organize years
+of data reduced the original 10-hour. unstructured job that had a
+high risk of error to a 12-minute, easy-to-repeat task that had the
+added benefit of standardizing the data. The fact that the task was
+repeated numerous times throughout the year and produced both
+RO! and tangible benefits made this GiS enhancement a no-brainer.
+
+‘he measures of success at the bottom of this report are criti
+cal components of the report because they do two essential things.
+First, they describe the actions necessary to assess and validate the
+report's initial assumptions. Even if leadership doesn't ask for this
+information, the GIS professional should be compelled to discover,
+these metrics. Second, the measurements provide expectations for
+the GIS professional, who should think in terms of business perfor-
+‘mance and accountability. As I stated in previous articles, ROI stu
+ies are not conducted enough in our discipline. IfGIS managers don't
+start having higher expectations for GIS staff performance, we will,
+keep getting the same results,
+
+‘The ROI and Benefits Report for the Statewide 3-D Stereo Model
+‘Acquisition project describes a project done by the Utah Geological
+Survey (UGS). I wanted to share this report for a very important
+reason. Its most notable benefit is cost avoidance, and that is the gift
+that keeps on giving.
+
+‘As you can imagine, fieldwork constitutes a core activity of geo
+logic mapping. This fieldwork, along with associated expenses for
+hotels, per diem, transportation, fuel. and labor. represents a sig-
+nificant cost of doing business for the UGS. By addressing these
+
+(Tin other departments can understand, learn
+
+Lis 26 24 Summer 2016 esi com
+

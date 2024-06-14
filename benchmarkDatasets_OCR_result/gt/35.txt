@@ -1,0 +1,49 @@
+Hands On
+
+Most of us have looked up at the night sky and seen the Milky Way. This provides only
+one perspective of the stars. If we use a telescope, we can see the stars and planets in
+more detail. A telescope lets us see an individual star in the context of a constellation or
+even a specific type of galaxy. But this technique is not only about looking at your data
+at different scale levels. Underlying this technique is the idea that we need to expand our
+understanding by aggregating the data.
+
+One technique that makes it easy to compare data at different scale levels is to use an
+index. For example, let's say that from the mass spectrometer technique, we learn that our
+target population is 18- to 34-year-olds who make up 24 percent of the total population
+of the country. We can measure that same target population percentage at the census
+block group level, or by ZIP code, trade area, county, metropolitan area, or state level. By
+dividing each area’s percentage by 24 percent and multiplying by 100, we can create an
+index that compares any value to the base population percentage.
+
+While it is relatively easy to remember a single benchmark like 24 percent, the value
+of converting all your variables to an index based on 100 is that you will be able to scan
+multiple variables and have an almost instant understanding of how any given area relates
+to the overall population based on an average, median, percentage, a target number, ora
+threshold value.
+
+3
+
+Insome ways, the microscope is simply the flip side of the telescope technique: drilling down
+to asmall area with more details rather than aggregating data up to a larger geographic
+area. But the idea behind this technique is to validate assumptions or hypotheses that
+we may have made when viewing data at a higher level. If you only look at your data at an
+
+aggregated level, you may miss the specific variables that lead to unexpected conclusions
+that may change the way that you do business. So create a map series and zoom in to each
+location to check whether the patterns that hold true at a higher level need to be refined
+based on the individual characteristics of your data.
+
+A balance scale compares a known weight to something that has an unknown weight
+employing a specific unit of measurement. It’s the idea of comparing and contrasting one
+thing to another using some standard of measurement.
+
+One of the simplest ways to do this is to rank your data. It could be as simple as
+numbering the values from 1 to the highest rank or using a calculation in Excel such as the
+RANK.EQ or RANK.AVG functions to ensure that when values are the same, they are given
+an equal rank. If you rank your data, it makes it easy to create five classes in your map layer
+symbology to show the top 20 percent and bottom 20 percent of your data. In business, it
+is common to find that 80 percent of sales come from 20 percent of customers, or (stated
+more generally) 80 percent of the effects come from 20 percent of the causes. By ranking
+and classifying your data, it is easy to see which features are most important.
+
+esricom Fall 2016 ai 47

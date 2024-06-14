@@ -1,0 +1,65 @@
+feature
+
+egotiating Science,
+Technology, Culture,
+and Religion:
+The art and ideas
+
+of Laleh Mehran
+
+In this interview, the artist Laleh Mehran discusses her use of
+interactive installations to explore the relationships between science,
+theology, and technology. She also shares how her experience as an
+Iranian-American has shaped the structure and themes of her work.
+
+By Jennifer Jacobs
+DOI: 10.1145/2930876
+
+hrough the creation of immersive environments and installations, artist Laleh
+Mehran explores the complex relationship between science, technology, and
+theology. Her art pieces blend digitally fabricated structures, computationally
+generated imagery, digital sensors, and autonomous machines to produce
+complex and responsive spaces. The intricate socio-cultural themes of Mehran’s work are
+connected with her personal experiences as an Iranian-American. Her installations provoke
+questions about dissent, intolerance, technological control, and personal agency, while
+simultaneously providing a context for critical dialogue.
+
+Much of Mehran’s artwork uses inter-
+active technology to encourage viewer
+participation. In her work “Entropic Or-
+der,” a two-axis drawing machine that
+inscribes complex geometric patterns
+into black sand, alters its behavior based
+on viewer presence. One of her most am-
+bitious pieces to date, “Men of God, Men
+of Nature,” is a site-specific installation
+that combines references to Islamic cul-
+
+36
+
+ture, Middle Eastern geography, and the
+Kaaba (Islam’s holiest site), in the form
+of a black cube. Viewers can enter the
+cube’s interior, which is adorned with
+intricate, Arabesque patterns and moni-
+tors with computationally generated im-
+agery that respond to the viewer’s move-
+ments through the space. Together with
+the artist Christopher Coleman, she cre-
+ated “W3FI,” a piece that addresses the
+
+topic of online communities through a
+series of immersive projections, which
+display ideas and visualizations of real-
+time information gathered from the im-
+mediate surroundings, visitors, and the
+region at large.
+
+We spoke at length with Mehran
+about her background, her evolution
+as an artist, and the ideas behind her
+work.
+
+XRDS + SUMMER 2016: VOL.22:NO.4
+
+Images courtesy of Laleh Mehran

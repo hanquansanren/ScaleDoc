@@ -1,0 +1,37 @@
+Learning can be done using a number of different fo
+perceptron loss, hinge loss, and negative log-likelihood |
+‘and 33 into the perceptron loss (Eq. 2 we get:
+
+CoccenealWS) = 5 > 5 (tent (X") =
+
+‘The stochastic gradient descent ssn mit .
+W —W +n (¥t~ sign(Gw (x9) 24
+where 7 is a positive step size. If we choose Gy (X) in the family of tt
+the energy function becomes E(W,Y,X) = —YW7@(X) and the
+becomes:
+1 *
+
+Loercepiren WS) = JY (sign(WPO(X')) ~ ¥) WTO(XY,
+
+‘and the stochastic gradient descent update rule becomes the familiar perceptron
+
+ing rule: Wo — W + 9 (¥* — sign(W7(X"))) @(X*).
+The hinge loss (Eq. 1) wi the rotate 32) yields:
+
+Lringe(W,S) = = >> max(0,m + 2¥'Gw(X%). GD
+
+Using this loss with Gy(X) = W7X and a regularizer of the form ||W/||? gives the
+familiar linear support vector machine.
+
+‘The negative log-1 vgeecr er sae 23) with Equation 32 yields:
+Lan(W,S) = 4 2S [Hv ew) + tog (OSH EY 4 eV Ow Ex »)]-
+Using the fact that 2 = {—1, +1},we obtain:
+Lou (WS) = BE be(serero, eo)
+
+which is equivalent to the log loss (Eq. 12). Using a linear model as described above,
+the loss function becomes:
+
+Lan(W,S) = + >> tog (1 + e-2Vw 7X) | 0)
+
+This panicular Seritaten 3 Seen land loss is the familiar logistic regression
+method.

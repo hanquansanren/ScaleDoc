@@ -1,0 +1,122 @@
+Alan Hanjalic
+
+Delft University of
+
+Technolosy
+
+| was essentially reali
+
+to Usefulness
+
+here has been an amazing amount of work
+
+done and progress achieved in the field of
+multimedia search over the past two decades. As
+nicely elaborated on by Lei Zhang and Yong Rui
+in their recent review of the advances in this
+field,' the developments so far have gone
+through three main stages: the text-based stage
+| the and the Web-based
+staj multimedia search
+
+content-based. stay
+
+In the text-based stage
+
+xd as a trivial extension of
+the classic, text-oriented information retri¢
+approach, where text was found in the docu:
+ments accompanying multimedia items (images,
+video, and music). In the 1990s, researchers
+started to explore the possibilities of analyzing
+the actual (audio-visual) content of multimedia
+items to automatically infer semantic similarities
+and textual labels reflecting what is depicted in
+an image or a video frame and what is audible in
+a soundtrack. The main motivation for this st
+was that manually adding texts to multimedia
+items was tedious and time consuming,
+
+Such
+one-sided and therefore
+not always informative enough to help locate
+the targeted multimedia item.
+
+More recently, inspired by the rapid develop-
+ment of social media platforms, text has come
+back as an important information source
+for multimedia indexing and search; however,
+now it exists in the form of user-generated
+tags, comments (YouTube), and messages
+
+texts were also typical
+
+(tweets) accompanying multimedia
+
+unclear how much scientific
+
+explored and optimized mainly with respect to
+queries. The uncertainty in the channel con
+
+Multimedia Search: From Relevance
+
+Different stages have been marked by the
+dominance of some key theoretical and algorith-
+mic paradigms. For instance, the content-based
+stage started with an exploration of abroad range
+of audio-visual signal analysis methods but it
+later increasingly turned more toward well-estab-
+lished algorithmic frameworks, such as support
+vector machines (SVMS). Similarly, graph theory:
+has provided the main analytic framework for
+the Web-based stage. The most recent algorith-
+mic hype in the field is deep learning,
+
+ve analyze these three stages and the
+
+related (dominating) technologies, we can con
+clude that their evolution has essentially been,
+resource-driven. In other words, as we
+
+moved from the text-based stage
+
+have
+via the con-
+tent-based stage, to the Web-based stage, we have
+Included more and more
+
+mation resources
+in the development of methods for indexing and
+searching multimedia. Such technolo
+
+then been investi
+
+les have
+<d and enhanced to get the
+most out of these resources and improve the
+results of multimedia search in view of objective
+
+criteria, such as average precision (AP).
+
+The key to understanding how a multimedia
+
+search system works lies in understanding the
+
+notion of relevance. Relevance has so far been
+
+necting the query and the collection is typically
+large, and the ne: < 6
+
+ewever, that pursuing this
+
+target of “technically”
+
+the relevance to a query may have
+‘hed its limits. Specifically, it ts
+breakthrough can
+
+still be achieved and how much impact all the
+
+‘Published by the IEEE Computer Society
+
+2376-113/15/801.00.© 2015 IEEE.

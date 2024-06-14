@@ -1,0 +1,175 @@
+DECIPHERING DISPLAY TERMINOLOGY [igle)MistshiszarNiniuisiy i
+
+‘me
+
+OLED DISPLAY
+
+OLED
+
+A specific type of LCD TV that uses an LED
+(light-emitting diode] as a backlight, which
+can be either a true backlight or an edge-
+lit panel, instead of a CCFL array. LED TVs
+have grown in popularity over CCFL LCD
+TVs because they can be made slimmer and
+more energy efficient.
+
+QLED TV
+
+CONVENTIONAL
+LCD DISPLAY
+Back Light Unit
+
+Metal
+Polarizer Glass \/ Encap Sack Cover
+
+bee dd P (-; u
+
+Refiector Cover
+Guide Plate Bottom
+
+Polanzer —C/FGlass_ Liquid TFT Glass Polarizer Optic Light
+
+A display that uses small {just several Crystal
+
+nanometers) semiconductor particles,
+called “quantum dots,” to enhance the color
+of an otherwise traditional LED TV.
+
+OLED TV
+
+Organic LED technology that doesn’t require
+a backlight because each pixel illuminates
+itself, typically with increased contrast
+ratios and brightness with lower power
+consumption than LED TVs; also typically
+slimmer, more lightweight, and more
+energy-efficient than LCD/LED TVs, due to
+their lack of a backlight.
+
+Refresh Rate
+
+The rate, expressed in Hz [Hertz] or fps
+[frames per second], at which the screen
+refreshes itself; this is directly related to the
+display’s power supply. In countries that use
+100-120V for AC power, this will be either 24,
+30, or a multiple of 60; where 200-240V is
+used, this will instead be 25 or a multiple of 50.
+A higher refresh rate will display a smoother
+image (with corresponding content) because
+of the additional video frames displayed.
+
+Aspect Ratio
+
+The ratio of the width of a display or screen to
+its height. For standard definition, 4:3 is most
+common, whereas 16:9 is most common in
+HD displays. 16:10, 17:9, and 2.35:1 aspect
+ratios are also commonly found in projectors,
+and all represent additional HD formats.
+
+A simulated three-dimensional effect that
+some displays and projectors can produce,
+usually in conjunction with 3D glasses. The
+technology of the glasses must match that
+of the display or projector. You want to use
+active glasses with active 3D displays and
+passive glasses with passive 3D displays.
+
+Describes the amount of detail a display can
+
+produce, based on the number of pixels on
+the panel, often described with a graph-like
+value representing the number of vertical and
+horizontal lines, i.e. 1920 x 1080. Like refresh
+rate, the higher the resolution, the clearer the
+image will be, with compatible content.
+
+SD / Standard Definition
+
+Resolutions up to and including 640 x 480,
+typically associated with non-progressive
+DVD players, VHS, and analog TV/cable/
+satellite reception, and similar sources. SD
+video is in the process of being phased out
+of broadcast TV.
+
+HD / High Definition / 720p
+
+Typically describes the video resolution of
+1366 x 768, or sometimes the XGA resolution
+of 1024 x 768.
+
+Full HD / 1080p
+
+1920 x 1080 resolution.
+
+UHD / 4K
+
+3840 x 2160 resolution; sometimes referred
+to as 2160p.
+
+Contrast Ratio
+
+The ratio between the brightest white level a
+display can achieve compared to the darkest
+black level at a given setting.
+
+Dynamic Contrast Ratio
+
+Similar to contrast ratio, but in order to
+measure the brightest white level, the
+display is first set to the brightest setting,
+then measured, and to determine the
+darkest black level, it is then set to the
+darkest setting, then measured.
+
+Refers to the number of unique colors a
+display can produce; a display that can
+
+display more colors is said to have a “wider”
+color gamut.
+
+} HDR |
+
+An acronym for High Dynamic Range.
+Per the Ultra HD Alliance, to achieve HDR
+certification, a display must either have
+a peak brightness over 1000 cd/m2 with
+black levels less than 0.05 cd/m2, or a peak
+brightness over 540 cd/m2 with black levels
+lower than 0.0005 cd/m2. These brightness
+levels enable the possibility for a wider
+color gamut compared to non-HDR (SDR -
+Standard Dynamic Range) displays.
+
+| HDR10 |
+
+HDR technology that uses the Rec.2020
+color space with a 10-bit color depth. It uses
+static metadata from the video source [i.e. a
+streaming media player] for color calibration
+of the display. As an open standard, HDR10
+is the most common HDR technology.
+
+An HDR format from Dolby Laboratories
+that supports a 12-bit color depth within
+the Rec.2020 color space. It uses dynamic
+metadata from the source, optimizing the
+dynamic range frame by frame. Unlike
+HDR10, Dolby Vision requires pre-installed
+onboard hardware to function.
+
+HLG
+An acronym for Hybrid Log-Gamma, HLG is
+an HDR format that is backward-compatible
+with SDR displays and is used in broadcast
+and some streaming services.
+
+Refers to a display that will typically have an
+onboard OS [operating system} similar to
+that of a computer, with the ability to down-
+load and access apps and stream content.
+
+www.BandH.com By

@@ -1,0 +1,39 @@
+3.3 Multiclass Classifier
+
+Figure 6(c) shows an example of architecture for multiclass classification for 3 classes.
+A discriminant function Gy (X) produces an output vector [g1,g2,---.gc} with one
+‘component for each of the C categories. Each component gj can be interpreted as
+a “penalty” for assigning X to the j" category. A discrete switch module selects
+which of the components is connected to the output energy. The position of the switch
+is controlled by the discrete variable Y € {1,2,...,C)}, which is interpreted as the
+category. The output energy is equal to E(W,Y,X) = DO, 5(¥ — j)g,. where
+5(¥ — J) is the Kronecker delta function: 6(u) = 1 for u = 0; 6(u) = 0 otherwise.
+Inference consists in setting ¥ to the index of the smallest component of Gw(X).
+
+‘The perceptron loss, hinge loss, and negative log-likelihood loss can be directly
+translated to the multiclass case,
+
+3.4 Implicit Regression
+
+BOW, Y.x)
+
+Figure 7: The impli X and ¥
+4 ici regression architecture are passed through ‘eo functions
+Gin and Gay, Ths architecture allows mudiple values of ¥ 40 have low energies fora given
+
+‘The architectures described in the previous section are simple functions of ¥ with a
+single minimum within the set ). However, there are tasks for which multiple answers
+fare equally good. Examples include robot navigation. where turning left or right may
+‘get aroundan obstacle equally well, or a language model in which the sentence segment
+“the cat ate the” can be followed equally well by “mouse” or “bird”.
+
+More generally, the dependency between X and ¥ sometimes cannot be expressed
+as a function that maps X to Y (¢.g.,consider the constraint X?+Y? = 1), In this case,
+which we call implicit regression, we model the constraint that X and ¥ must satisfy
+and design the energy function such that it measures the violation of the constraint.
+Both X and Y’ can be passed through functions, and the energy is a function of their
+‘outputs. A simple example is:
+
+E(WLY,X) Ligx(Wx ) — Gy (Wy, Y))/? a)
+
+19

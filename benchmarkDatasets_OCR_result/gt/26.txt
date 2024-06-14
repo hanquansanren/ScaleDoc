@@ -1,0 +1,63 @@
+.
+
+Do you know what kind of future you are planning?
+
+Is it a future that preserves the quality of air, water, and land systems for our descendants?
+Because a sustainable future does not happen by default or by accident, Esri launched the
+Green Infrastructure initiative to help you and decision-makers—both within and outside
+of government—plan a better future for the United States using GIS.
+
+There is a pressing need to ensure that the nation’s valuable landscapes are not.sac-
+rificed as a result of development that is haphazard or poorly conceived. Unlike the gray
+infrastructure of bridges, roads, dams, and other structures, this green infrastructure is
+precious and cannot be rebuilt once it is lost.
+
+Green infrastructure is actually an old idea that has new vitality, thanks to GIS technol-
+ogy. Frederick Law Olmsted, the acknowledged founder of American landscape architec-
+ture, recognized the value of setting aside tracts of land and preserving natural scenery
+for the enjoyment of everyone, not just the wealthy. Olmsted was a board member of the
+commission appointed to oversee the first national park, Yosemite. In his 1865 report,
+Olmsted noted that the preservation of the area’s scenic beauty would generate not only
+economic returns from tourism but also tremendous benefit to the physical and spiritual
+well-being of the nation’s inhabitants.
+
+The objective of the Green Infrastructure initiative is a systematic, information-based
+method for transforming communities in the United States into sustainable centers by
+identifying and preserving an interconnected system of landscapes at regional, local, and
+urban scales. This means addressing green infrastructure proactively at the beginning of
+the planning process, rather than reactively at the end.
+
+A green infrastructure approach to development identifies critical landscapes of eco-
+logical, scenic, and cultural value and preserves them. Ecologically valuable landscapes
+contain features that benefit all living organisms in an area, not just people. Scenic and cul-
+turally valuable landscapes are characterized by recreational areas, viewsheds, and similar
+features that increase property values and promote tourism.
+
+To be effectively safeguarded, these areas must be considered on multiple scales—
+regional, local, and urban. At each scale, maintaining the connectivity of open spaces,
+habitats, and parks is important because connectivity provides a resilience to the
+components of these landscapes that helps them survive challenges, such as climate
+change, better than isolated areas.
+
+Previously, environmental concerns were set aside in favor of what was perceived as eco-
+nomic necessity based on the belief that these were competing rather than complementary
+aspects of a truly sustainable future. Green infrastructure makes solid economic contribu-
+tions. Preserving watersheds protects the water supply and safeguards the health of human
+populations that use that water as well as the vegetation and wildlife that depend on it.
+Keeping coastal areas intact mitigates the effects of storm events and limits damage to build-
+ings and other structures. Unmarred scenic views are valued and enhance property values.
+
+Currently the majority of local government entities that regulate the use of the land
+base in the United States do so in isolation from each other and often without tools to
+effectively assess existing conditions or model the effects of proposed policy changes.
+
+36 au Fall 2016 esri.com
+
+Green
+infrastructure
+makes solid
+economic
+
+contributions.
+i ees
+

@@ -1,0 +1,89 @@
+The
+BUSIINESS IMP
+of Gl
+
+Case studies from Utah
+
+By Wade Kloos, GIS Director, Utah Department of Natural Resourc
+
+This article, the thint in a series on GIS return on invest ment
+(ROD, provides ROI examples and offers a summary of findings «after
+two years of using this ROI approach at the Utah Department of
+Natural Resources.
+
+1m an article in the Winter 2016 issue of ArcUser, {addressed the
+‘ced for and benefits of documenting GIS results as well as the ad-
+vantages of adopting the right ROI mind-set In “Downsizing the ROL
+Report” in the Spring 2016 issue. I reviewed the target audience for
+ROI reports, shared a different approach to documenting ROI, and
+‘provided a one-page ROL and Benefits Report template that could be
+<dovenloaded from the online version of the article.
+
+‘The online version ofthis article has links to two reports created
+using the template. They are referenced in case you want to down-
+load them. Look at the ROL and Benefits Report for the Wildland
+Urban Interface (WUI) Project Geodatabase Compilation project.
+Tarried out by the Division of Forestry, Fire, and State Lands (FFSL),
+‘The Executive Summary portion notes that not all the organization's
+
+relevant information could be used to make decisions The Tangible
+
+Benefits section of this same report deseribes how a repeatable
+‘method for producing more timely, higher-quality data is now part
+‘of the organization's decision-support process,
+
+‘Your leaders need to know the bad and the ugly of your current
+Information and process limitations so they ean accurately assess
+the good your GIS efforts are delivering. This report describes efforts
+to improve an outdated workflow. This problem is not an uncommon
+
+‘one for organizations, especially those with dispersed offices, multi
+
+ple data editors, and an absence of data sta
+deftly describes th
+
+atta tie
+
+frond then Soo
+The co houn
+
+Hf reaured by this project to clean
+
+of data raced the orginal Oho oe
+
+st rer eae
+
+Hin other departments can understand, learn
+
+and on
+1 job that had a
+12-minute, easy-to-repeat task that had the
+indardizing the data. The fact that the task was
+ines throughout the year and produced both
+A nefits made this GIS enhancement a no-brainer.
+BRO of SUéCeSS at the bottom of this report are criti
+ecauise they do two essential things.
+
+Fepeated nuznerous
+
+lesarencteonducted enowgh in our discipline I{GIS managers don't
+starthaving higher €=pectations tor Gis staff performance. we will
+‘keep getting the same results,
+
+“The ROI and Benefit Report for the Statewide 3-D Stereo Model
+Acquistion project Se8¢ "bes a projec done by the Utah Geological
+Survey (UGS): Uwanted, 0 share this report for a very important
+‘Teason, Its most notable Benefit is cost avoidance, and that is the gift
+‘that keeps on giving.
+
+labor, represents a sig-
+nificant cost of doing business for the UGS. By addressing these
+
+2014 1°
+
+2015
+
++ Toble 1: ROI benefits
+
+26» Summer 2016
+

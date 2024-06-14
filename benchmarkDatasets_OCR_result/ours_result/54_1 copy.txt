@@ -1,0 +1,36 @@
+(S, 2)
+
+Notice that the reshape function creates a new array and does not itself modify the original
+array.
+
+Keep in mind that Python's name-binding approach still applies to arrays. The copy function
+can be used to create a new, separate copy of an array in memory if needed:
+
+35> a = np.array((1, 2, 3], float)
+
+Lists can also be created from arrays:
+
+>>> a = np.array({1, 2, 3], float)
+eC
+
+(a)
+[2.0, 2.0, 3.01
+
+‘One can convert the raw data in an array to a binary string (i.e., not in human-readable form)
+using the tost ring function. The fromst ring function then allows an array to be created
+from this data later on. These routines are sometimes convenient for saving large amount of
+array data in files that can be read later on:
+
+‘>>> a = array({1, 2
+55> 8 = a.tostring(
+>>> 8 ‘
+Sant ausg aren tore
+\x00\x00\x080' —
+
+>>> np. fromstring:|
+array([1., 2-, 3.
+
+a 31, float) —
+
+© 2014 M. Scott Shell 5/24 last modified 6/17/2014
+

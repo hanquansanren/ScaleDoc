@@ -1,0 +1,50 @@
+3.3 Miulticlass Classifier
+
+Figure 6(c) shows an example of architecture for multiclass classification for 3 classes.
+A discriminant function Gy (X) produces an output vector [g1, g2,..-, gc] with one
+component for each of the C’ categories. Each component g,; can be interpreted as
+a “penalty” for assigning X to the j*” category. A discrete switch module selects
+which of the components is connected to the output energy. The position of the switch
+is controlled by the discrete variable Y € {1,2,...,C}, which is interpreted as the
+category. The output energy is equal to E(W,Y,X) = ee 6(Y — j)g;, where
+6(Y — 7) is the Kronecker delta function: 5(u) = 1 for u = 0; 6(u) = 0 otherwise.
+Inference consists in setting Y to the index of the smallest component of Gy (X).
+
+The perceptron loss, hinge loss, and negative log-likelihood loss can be directly
+translated to the multiclass case.
+
+3.4 Implicit Regression
+
+E(W,Y,X)
+A
+
+ile. (X) ~~ Gow, ih]
+
+f f
+
+Giy, (Xx) Gow, (Y)
+
+A ry
+
+x Y
+
+Figure 7: The implicit regression architecture. X and Y are passed through two functions
+Giy, and Gay, . This architecture allows multiple values of Y to have low energies for a given
+
+The architectures described in the previous section are simple functions of Y witha
+single minimum within the set V. However, there are tasks for which multiple answers
+are equally good. Examples include robot navigation, where turning left or right may
+get around an obstacle equally well, or a language model in which the sentence segment
+“the cat ate the” can be followed equally well by “mouse” or “bird”.
+
+More generally, the dependency between X and Y sometimes cannot be expressed
+as a function that maps X to Y (e.g., consider the constraint X?+Y? = 1). In this case,
+which we call implicit regression, we model the constraint that X and Y must satisfy
+and design the energy function such that it measures the violation of the constraint.
+Both X and Y can be passed through functions, and the energy is a function of their
+outputs. A simple example is:
+
+1
+E(W,Y, X) = 5||Gx(Wx, X) — Gy (Wy, Y) IP. (41)
+
+19
